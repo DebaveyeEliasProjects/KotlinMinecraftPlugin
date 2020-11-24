@@ -1,0 +1,7 @@
+name: Elias
+version: ${project.version}
+main: me.Gezelligheid.Startup.Main
+api-version: 1.16
+commands:
+  test:
+    description: boe
